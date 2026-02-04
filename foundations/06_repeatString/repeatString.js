@@ -1,5 +1,5 @@
 const repeatString = function(string, num) {
-    if (num > 0) {
+    if (num >= 0) {
         let i = num;
     let result = ""
     while (i > 0) {
