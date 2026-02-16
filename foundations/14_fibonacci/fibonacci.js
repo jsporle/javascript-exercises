@@ -8,7 +8,7 @@ const fibonacci = (n) => {
     for (let i = 2; i < num; i++) {
         seq[i] = seq[i - 1] + seq[i -2];
     }
-    return seq[num - 1]
+    return seq[num - 1];
 };
 
 console.log(fibonacci(10));
