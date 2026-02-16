@@ -22,7 +22,7 @@ const sumAll = function(a, b) {
     return sum
 };
 
-console.log(sumAll(1,3))
+console.log(sumAll(1992,2026))
 
 
 

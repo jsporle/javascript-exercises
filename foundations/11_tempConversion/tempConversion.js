@@ -10,7 +10,7 @@ const convertToFahrenheit = function(inputCelsius) {
   return +outputFahrenheit.toFixed(1); 
 };
 
-console.log(convertToCelsius(-10))
+console.log(convertToCelsius())
 console.log(convertToFahrenheit(-10))
 
 // Do not edit below this line

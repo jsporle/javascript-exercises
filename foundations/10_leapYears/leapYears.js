@@ -10,8 +10,8 @@ const leapYears = function(year) {
     return false;
 };
 
-console.log(leapYears(2000));
-console.log(leapYears(1985));
+console.log(leapYears(2027));
+console.log(leapYears(1990));
 
 //leap years are every four years
 //if years divisible by 100 they are not leap years unless

@@ -8,7 +8,7 @@ const reverseString = function(string) {
     return stringReversed;
 };
 
-console.log(reverseString("hello!"))
+console.log(reverseString("hellothere!"))
 
 // Do not edit below this line
 module.exports = reverseString;
