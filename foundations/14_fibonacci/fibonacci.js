@@ -11,7 +11,7 @@ const fibonacci = (n) => {
     return seq[num - 1]
 };
 
-console.log(fibonacci(10))
+console.log(fibonacci(10));
 
 // Do not edit below this line
 module.exports = fibonacci;
